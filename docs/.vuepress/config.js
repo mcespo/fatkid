@@ -21,10 +21,6 @@ module.exports = {
             rel: 'mask-icon',
             color: '#5bbad5',
             href: '/images/safari-pinned-tab.svg'
-        }],
-        ['link', {
-            rel: 'manifest',
-            href: '/images/manifest.json'
         }]
     ],
     title: "Fatkid at Heart",
