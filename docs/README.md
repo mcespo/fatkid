@@ -10,6 +10,9 @@ Howdy, I'm Marvin, a web developer based in Chicago that likes to relieve stress
 Love you. :two_hearts:
 
 
-<!-- ## Recipes -->
+## Recipes
 
-<!-- While I am still consolidating on how to best organize the content on this site, recipes are separated by food and drinks for my sanity. -->
+While I am still mapping out how to best organize the content on this site, recipes are separated by food and drinks for my sanity. This will be better in the future. Maybe some time around 2020.
+
+* [Food](./recipes/food/)
+* [Drinks](./recipes/drinks/)
