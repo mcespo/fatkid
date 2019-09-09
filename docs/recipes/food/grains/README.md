@@ -1,6 +1,11 @@
 # Grains
 
-* [quinoa](./quinoa)
+## Seeds
+### [quinoa](quinoa)
 
-## Risotto's
-* [Arborio/Carnaroli Risotto Bianco](risotto-bianco)
+## Oats
+### [Steel Cut Oatmeal](steel-cut-oatmeal)
+
+## Rice
+### [Risotto Bianco](risotto-bianco)
+

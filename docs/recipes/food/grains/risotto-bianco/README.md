@@ -1,5 +1,4 @@
 ---
-# prev: /.
 ---
 
 # Risotto Bianco

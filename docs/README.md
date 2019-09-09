@@ -9,6 +9,7 @@ Howdy, I'm Marvin, a web developer based in Chicago that likes to relieve stress
 
 Love you. :two_hearts:
 
+
 <!-- ## Recipes -->
 
 <!-- While I am still consolidating on how to best organize the content on this site, recipes are separated by food and drinks for my sanity. -->
