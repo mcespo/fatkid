@@ -1,4 +1,9 @@
 {
+    "name": "Fatkid at Heart",
+    "version": "1.0.0",
+    "description": "Fatkid at Heart blog",
+    "author": "Marvin Cespedes",
+    "license": "ISC",
     "scripts": {
         "docs:build": "vuepress build docs"
     }
