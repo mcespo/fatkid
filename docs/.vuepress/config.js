@@ -52,5 +52,20 @@ module.exports = {
         //     ]
         // }
     },
-    extend: "@vuepress/theme-default"
+    extend: "@vuepress/theme-default",
+    plugins: [
+        [
+            '@vuepress/google-analytics',
+            {
+                'ga': 'UA-125075417-1'
+            },
+            '@vuepress/back-to-top'
+        ]
+    ]
+    [
+        '@vuepress/pwa', {
+            serviceWorker: true,
+            updatePopup: true
+        }
+    ]
 }
