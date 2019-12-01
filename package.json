@@ -9,5 +9,8 @@
     },
     "devDependencies": {
         "vuepress": "^1.2.0"
+    },
+    "dependencies": {
+        "lodash.debounce": "^4.0.8"
     }
 }

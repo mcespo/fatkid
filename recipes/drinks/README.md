@@ -1,4 +1,5 @@
 # Drinks
 
 * [Cocktails](./cocktails/)
-* Coffee
+* [Coffee](./coffee/)
+* [Tea](./tea/)

@@ -1,17 +1,18 @@
-# Fatkid at Heart
+---
+home: true
+heroImage: /images/homepage_swedish-chef.gif
+---
 
-Hi Marvin. Yes, I am talking to me. Here's the thing. You know full well that no one is really going to read through this project so you might as well make use of this readme. SO, you are using VuePress not for code documentation but to collect all of your cooking recipes onto some sort of online resource.
+# Welcome to Fatkid at Heart
 
-That rules. Be proud.
+Howdy, I'm Marvin, a web developer based in Chicago that likes to relieve stress by making junk in the kitchen. As such I have collected/created about 300 or so recipes on my phone and to be honest, I need to move those notes elsewhere. This site is a compilation of those recipes. Not all of them (if any) are here. A lot of my notes are for me, and the ones I've morphed into something readable will show up here in the coming weeks, months, or years. As this site _is_ currently a work in progress, please feel free to send your feedback or concerns to <a href="mailto:vice.president@whitehouse.gov?&subject=Vice%20President%20Michael%20Richard%20Pence,%20I%20have%20concerns&body=Sir,%20if%20I%20may,%20Marvin%20Cespedes'%20food%20blog%20needs..." title="Tell Marvin how you really feel">garbage@thedumpster.com</a>.
 
-Better yet, you have this project ready to push onto Netlify whenever you publish to Master. Very boss. I love it, and I love you.
+Love you. :two_hearts:
 
-One note though (because there always is a catch). You need to remember how to actually work on this project because you seem to forget how to on like a weekly basis.
 
-So here's all you need to know.
+## Recipes
 
-* This is the parent folder. The parent folder is used to make the connection between the VuePress project and Netlify. Any pushes or pulls into Master (as well as any additional branches for that matter) truly need to happen here.
+While I am still mapping out how to best organize the content on this site, recipes are separated by food and drinks for my sanity. This will be better in the future. Maybe some time around 2020.
 
-* that `docs` directory you see there? That's where the actual project lives. CD into that mofo, run that `vuepress dev` command, and watch `http://localhost:8080` come to life.
-
-Das it. Go forth and add moar content.
+* [Food](./recipes/food/)
+* [Drinks](./recipes/drinks/)
