@@ -28,9 +28,9 @@ I had a bad habit of calling this chai tea (which would be the equivalent of me 
 * 6, cloves
 * 6, peppercorns
 * 600ml (2½ cups), water
-* 40g (4 tablespoons), sugar
+* 40g (3 tablespoons), sugar
 * 8g (2 tablespoons), loose black tea
-* 300ml (1¼ cup), milk
+* 300ml (1¼ cup), milk or oat milk
 
 ### Tools
 
@@ -54,6 +54,6 @@ I had a bad habit of calling this chai tea (which would be the equivalent of me 
 
 3. On a stove burner set to medium, toast the ingredients in the pot for a minute or so before adding **600ml**, water. Wait until the water begins to boil before adding **40g**, sugar, and **8g**, loose black tea.
 
-4. Let the tea steep in water for 6 minutes before adding **300ml**, milk which should slow down the boil. Allow the mixture to warm up after a few minutes and remove from the heat before it begins to boil again.
+4. Let the tea steep in water for 6 minutes before adding **300ml**, milk (or oat milk) which should slow down the boil. Allow the mixture to warm up after a few minutes and remove from the heat before it begins to boil again.
 
 5. Transfer the mixture to a French press, or strain into a pitcher before serving.
