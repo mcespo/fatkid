@@ -1,4 +1,4 @@
 Let the fat kids reign!
 
-* [Churros](./churros)
+* [Spanish Churros](./spanish-churros)
 * [Muddy Buddies / Puppy Chow](./muddy-buddies)

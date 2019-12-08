@@ -1,3 +1,7 @@
+---
+prev: /
+---
+
 # Drinks
 
 * [Cocktails](./cocktails/)

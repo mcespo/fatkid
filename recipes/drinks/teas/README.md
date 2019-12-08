@@ -1,3 +1,7 @@
+---
+prev: ../
+---
+
 # Teas
 
 this is the tea page.
