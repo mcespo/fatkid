@@ -4,13 +4,15 @@ prev: /
 
 # Spanish Churros
 
-I love churros! Spanish, Mexican, whateves - I'll take it. The version that most is to my style is the Spanish iteration which is just a plain flour churro with water.
+I love churros! Spanish, Mexican, whateves - I'll take it. The version that I love most is the Spanish iteration which is just a cooked flour with water mixture without any sugar cinnamon coating.
 
 ## Ingredients
 
 ### Items
 
-Note: measurements under 5g may be slightly inaccurate without an expensive precision scale, or a milligram scale. Consider using teaspoon measurements in these instances.
+::: tip
+Measurements under 5g may be slightly inaccurate without an expensive precision scale, or a milligram scale. Consider using teaspoon measurements in these instances.
+:::
 
 * **10g (1tbsp)**, Sugar.
 * **6g (1tsp)** Kosher salt.
@@ -58,15 +60,25 @@ Note: measurements under 5g may be slightly inaccurate without an expensive prec
 
 10. Begin piping the dough onto the parchment lined sheet tray.
 
-11. Transfer the tray to the refrigerator to rest or just leave in some spot to cool. You can use this time to prepare a pot for your oil as well as prepare your chocolate ganache. The ganache recipe is on a different page.
+11. Transfer the tray to the refrigerator to rest or just leave in some spot to cool.
+
+::: tip
+Use this time to prepare a pot for your oil as well as prepare your chocolate ganache. The ganache recipe is on a different page.
+:::
 
 12. You can either clean the pot used to make your dough, or use a new pot to prepare the oil. Either way, get a pot ready and use enough vegetable oil to ensure your dough has at least an inch of room to float. Turn on the heat and ensure the oil reaches **375** Fahrenheit (or **190** Celsius).
 
-13. Remove the churros from their resting area and slowly transfer a few into the oil, careful to not burn yourself nor overcrowd the pot. **Note** Consider covering half the pot of oil in the event possible steam pockets don't accidentally burst (I'm not implying that this is possible or that I have scars on my face to prove that this can happen - it's just hypothetical :grimacing:).
+13. Remove the churros from their resting area and slowly transfer a few into the oil, careful to not burn yourself nor overcrowd the pot.
+
+::: warning
+Consider covering half the pot of oil in the event possible steam pockets don't accidentally burst (I'm not implying that this is possible or that I have scars on my face to prove that this can happen - it's just hypothetical :grimacing:).
+:::
 
 14. After 4 minutes, flip the churros and continue to cook until churros develop a golden color. Remove and let rest over a paper towel lined bowl or plate.
 
-15. If the ganache in a bowl was prepped prior, now would be a good time to slightly rewarm it (A microwave set to 50% power for 30 seconds should do the trick).
+::: tip
+If the ganache in a bowl was prepped, now would be a good time to slightly rewarm it (A microwave set to 50% power for 30 seconds should do the trick).
+:::
 
 16. Serve the churros with chocolate ganache on the side.
 
@@ -81,4 +93,8 @@ In a wide enough bowl to fit churros, mix the sugar cinnamon mixture.
 * **125g**, Heavy cream.
 * **1 pinch**, Kosher salt.
 
-Combine all ingredients in a bowl and microwave for 30 second increments at 50% power. Mix after each cycle until chocolate is melted. WARNING: You **WILL** burn the chocolate if you run your microwave at full power. 50% and 30 second increments. Do not challenge this step.
+Combine all ingredients in a bowl and microwave for 30 second increments at 50% power. Mix after each cycle until chocolate is melted.
+
+::: danger
+You **WILL** burn the chocolate if you run your microwave at full power. 50% and 30 second increments. Do not challenge this step.
+:::
